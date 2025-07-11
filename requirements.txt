@@ -1,0 +1,18 @@
+
+* pandas
+* numpy
+* optuna
+* matplotlib.pyplot
+* seaborn
+* shap
+* joblib
+* warnings
+* math.sqrt
+* sklearn.model\_selection.train\_test\_split
+* sklearn.model\_selection.StratifiedKFold
+* sklearn.preprocessing.OneHotEncoder
+* sklearn.compose.ColumnTransformer
+* sklearn.pipeline.Pipeline
+* sklearn.metrics.mean\_squared\_error
+* sklearn.impute.SimpleImputer
+* lightgbm.LGBMRegressor
